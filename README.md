@@ -118,6 +118,30 @@ By simulating user interactions, wireframes help uncover potential pain points b
 Wireframes align well with iterative workflows. They allow teams to test ideas quickly, adapt to feedback, and build features that meet user needs.
 
 **Example:** Low-fidelity wireframes are used during brainstorming, while high-fidelity ones support final design handoffs—keeping the process flexible and focused.
+## Wireframing in Practice
+
+Wireframing is more than a design exercise—it’s a diagnostic tool that helps teams uncover usability issues before development begins. Here's a real-world example of how wireframing improved a product outcome:
+
+### Scenario: E-Commerce Checkout Flow
+
+During the wireframing phase of an e-commerce platform, the design team created a low-fidelity wireframe of the checkout process. Early feedback revealed that users were confused by the placement of the “Apply Coupon” field—it appeared after the payment section, making it easy to miss.
+
+### Resolution
+
+The team revised the wireframe to reposition the coupon field above the payment options and added a visual cue to highlight it. This change was tested in a high-fidelity wireframe using Figma, where users responded positively to the improved layout.
+
+### Impact on Final Product
+
+By identifying the issue early, the team avoided costly redesigns during development. The final product had a smoother checkout experience, reduced cart abandonment, and increased user satisfaction.
+
+### Summary
+
+This scenario highlights how wireframing helps teams:
+- Spot layout and navigation issues early
+- Iterate quickly based on feedback
+- Align design decisions with user needs
+
+Wireframing ensures that usability is baked into the product from the start—making it a vital step in building intuitive, user-friendly software.
 
 
 
