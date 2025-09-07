@@ -31,3 +31,45 @@ Determines where key information and actions appear. Strategic placement improve
 Represents interactive elements like buttons, forms, and sliders. These simulate user actions and inform development decisions.
 
 **Example:** Including a login form in the wireframe shows how authentication will be handled.
+## Types of Wireframes
+
+Wireframes come in different levels of detail depending on the stage of the design process. The two primary types are:
+
+### Low-Fidelity Wireframes
+These are basic, sketch-like representations of a layout. They focus on structure and functionality without detailed styling.
+
+**Used when:**  
+- Brainstorming ideas  
+- Exploring layout options  
+- Gathering early feedback  
+
+**Characteristics:**  
+- Simple shapes and placeholders  
+- No color, branding, or detailed visuals  
+- Fast to create and easy to change  
+
+**Example:** A hand-drawn sketch or grayscale layout showing where headers, buttons, and content blocks will go.
+
+---
+
+### High-Fidelity Wireframes
+These are polished, detailed representations that closely resemble the final product. They include styling, spacing, and sometimes interactive elements.
+
+**Used when:**  
+- Finalizing design decisions  
+- Preparing for development  
+- Communicating with stakeholders  
+
+**Characteristics:**  
+- Accurate typography, colors, and spacing  
+- Real content and images  
+- May include clickable prototypes  
+
+**Example:** A Figma mockup with styled buttons, real text, and responsive layout behavior.
+
+---
+
+## Type of Wireframe Used in This Project
+
+This project primarily uses **low-fidelity wireframes** to help learners focus on layout, structure, and core functionality before diving into visual design. The emphasis is on understanding how wireframes guide usability and communication—not on pixel-perfect styling.
+
