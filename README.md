@@ -72,4 +72,28 @@ These are polished, detailed representations that closely resemble the final pro
 ## Type of Wireframe Used in This Project
 
 This project primarily uses **low-fidelity wireframes** to help learners focus on layout, structure, and core functionality before diving into visual design. The emphasis is on understanding how wireframes guide usability and communication—not on pixel-perfect styling.
+## Wireframing Tools
+
+Wireframing tools help designers and developers visualize, iterate, and communicate layout ideas before development begins. Below are some popular tools used in the industry:
+
+- **Figma**
+- Adobe XD
+- Sketch
+- Balsamiq
+- Whimsical
+
+### Why Figma?
+
+Figma is the recommended tool for this project due to its versatility and collaborative features. It’s a cloud-based design platform that allows multiple users to work on the same file in real time, making it ideal for team-based projects.
+
+**Key Features:**
+- Real-time collaboration and commenting
+- Intuitive drag-and-drop interface
+- Built-in prototyping tools
+- Cross-platform access (browser-based)
+- Version history and design components
+
+**Why It’s Useful for Wireframing:**
+Figma makes it easy to create both low-fidelity and high-fidelity wireframes. Its reusable components and layout grids help maintain consistency, while its prototyping features allow designers to simulate user interactions. Whether you're sketching rough ideas or refining polished layouts, Figma supports every stage of the wireframing process.
+
 
