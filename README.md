@@ -95,5 +95,29 @@ Figma is the recommended tool for this project due to its versatility and collab
 
 **Why It’s Useful for Wireframing:**
 Figma makes it easy to create both low-fidelity and high-fidelity wireframes. Its reusable components and layout grids help maintain consistency, while its prototyping features allow designers to simulate user interactions. Whether you're sketching rough ideas or refining polished layouts, Figma supports every stage of the wireframing process.
+## Benefits of Wireframing in Software Development
+
+Wireframing plays a critical role in software development by bridging the gap between design concepts and technical implementation. It helps teams visualize the structure and functionality of a product before development begins, reducing ambiguity and aligning expectations.
+
+### 1. Guides the Design Process
+Wireframes act as a blueprint for the user interface, allowing developers to understand layout, navigation, and content flow early on. This structured approach ensures that usability challenges are addressed before coding starts.
+
+**Example:** In the Figmify project, learners use wireframes to define key elements like layout structure and functionality. This helps them plan scalable, user-friendly interfaces from the start.
+
+### 2. Facilitates Team Communication
+Wireframes provide a shared visual language for designers, developers, and stakeholders. They make abstract ideas tangible, enabling clearer feedback and faster decision-making.
+
+**Example:** Using tools like Figma, team members can collaborate in real time, comment on wireframe sections, and iterate together—reducing miscommunication and rework.
+
+### 3. Identifies Usability Issues Early
+By simulating user interactions, wireframes help uncover potential pain points before development. This proactive approach saves time and resources.
+
+**Example:** In later Figmify tasks, learners analyze real-world scenarios where wireframing revealed layout flaws and guided better design choices.
+
+### 4. Supports Agile Development
+Wireframes align well with iterative workflows. They allow teams to test ideas quickly, adapt to feedback, and build features that meet user needs.
+
+**Example:** Low-fidelity wireframes are used during brainstorming, while high-fidelity ones support final design handoffs—keeping the process flexible and focused.
+
 
 
